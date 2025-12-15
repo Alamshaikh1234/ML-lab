@@ -115,8 +115,8 @@ Each practical folder contains:
 ---
 
 ## Author
-Krushna Purane 
-(23030331245049)
+Alam Shaikh
+(23030331245026)
 B.Tech – Computer Engineering
 
 ---
